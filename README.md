@@ -1,1 +1,2 @@
-# -Rice-inventory-management
+# 米の在庫管理システム
+
